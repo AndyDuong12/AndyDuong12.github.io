@@ -25,3 +25,16 @@ h1 {
     margin: 30px auto;
     width: 60%;
 }
+
+/* work.html, projects.html */
+.card {
+    margin: 2rem;
+}
+
+.card-header, .card-title {
+    font-weight: bold;
+}
+
+.card-header {
+    background-color: rgb(216, 250, 216);
+}
