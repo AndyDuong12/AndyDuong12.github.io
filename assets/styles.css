@@ -12,6 +12,25 @@ h1 {
   font-style: normal;
 }
 
+/* index.html */
+.main-page-btn {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.main-page-btn a {
+  width: 15%;
+}
+
+#about-btn,
+#work-btn,
+#projects-btn {
+  background-color: grey;
+  border-width: 0.15rem;
+  border-color: black;
+}
+
 /* about.html */
 .profile-pic {
   display: block;
