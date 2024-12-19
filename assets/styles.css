@@ -38,3 +38,7 @@ h1 {
 .card-header {
     background-color: rgb(216, 250, 216);
 }
+
+.project-resource {
+    margin-bottom: auto;
+}
