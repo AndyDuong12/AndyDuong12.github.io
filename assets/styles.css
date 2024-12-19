@@ -26,6 +26,11 @@ h1 {
     width: 60%;
 }
 
+/* work.html */
+#volunteering {
+    background-color: lightblue;
+}
+
 /* work.html, projects.html */
 .card {
     margin: 2rem;
